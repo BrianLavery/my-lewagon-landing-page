@@ -1,0 +1,19 @@
+footer {
+  background-color: #897B6A;
+  margin-top: 32px;
+  padding: 16px;
+}
+
+footer i {
+  color: #281911;
+}
+
+footer p {
+  color: rgba(0,0,0,0.7);
+  display: inline;
+  padding: 8px 0;
+}
+
+footer p.heart {
+  color: red;
+}

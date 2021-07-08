@@ -1,0 +1,13 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(https://source.unsplash.com/KixfBEdyp64/1600x900);
+  background-size: cover;
+  background-position: center;
+  padding: 120px 0;
+  color: white;
+}
+
+.banner p, h2 {
+  margin: 12px 0;
+}
+
+

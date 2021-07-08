@@ -1,0 +1,20 @@
+.feature-card {
+  width: 25%;
+  box-shadow: 0 0 5px rgb(0 0 0 / 10%);
+}
+
+.feature-card img {
+  width: 75%;
+  height: 100px;
+  padding: 12px;
+}
+
+.feature-card h3 {
+  color: black;
+  padding: 12px 0;
+}
+
+.feature-card p {
+  color: rgba(0,0,0,0.6);
+  padding: 12px 0;
+}
